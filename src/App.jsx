@@ -10,8 +10,8 @@ import { parseUnits, formatUnits, maxUint256 } from 'viem';
 /************************************
  * 🧩 Addresses — REPLACE THESE
  ************************************/
-const CLUTCH_TOKEN_ADDRESS = '0xAC2C0505b953d8679230b564c1bf1836673e311A';
-const STAKING_CONTRACT_ADDRESS = '0x9F5E5eaB5FE4EF9C8b340A172336059025855219';
+const CLUTCH_TOKEN_ADDRESS = '0x7f2D6f4ae65A4e6F52A0f0895c834a68EE2472C4';
+const STAKING_CONTRACT_ADDRESS = '0xc9AD0854deeb6987678bF3e910E9a4a7645a0fC1';
 const TOKEN_DECIMALS = 9;
 
 /************************************
